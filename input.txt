@@ -1,0 +1,1 @@
+This is a test   text  document written for the Spacing  Fix program . There are  multiple   errors in   how words  are spaced in this   document  to test  how  it will fix the spacing errors. This  is  a  very  primitive program, so  many processes  will lack  compared  to a  professional  word  editting  program.
